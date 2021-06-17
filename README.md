@@ -5,5 +5,5 @@
 - 📫 How to reach me is through my *DATA below : 
 
                 **Contact**
-      <<Email>> misraojas@hotmail.com
-      <<Linkedin>> https://www.linkedin.com/in/ojas-misra-b33336145/
+      <<Email>> misraojas@hotmail.com <<Email>>
+      <<Linkedin>> https://www.linkedin.com/in/ojas-misra-b33336145/ <<Linkedin>>
