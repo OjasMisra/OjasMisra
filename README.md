@@ -2,7 +2,7 @@
 - 👀 I’m interested in *DATA
 - 💻 I'm working on *DATA
 - 🌱 I’m currently learning *DATA
-- 💞️ I’m looking to collaborate on *DATA
+- 🤝 I’m looking to collaborate on *DATA
 - 📫 How to reach me is through my *DATA below : 
 
                 **Contact**
